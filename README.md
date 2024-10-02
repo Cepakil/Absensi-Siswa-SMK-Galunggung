@@ -4,7 +4,7 @@ Sistem absensi berbasis web untuk siswa SMK Galunggung, memungkinkan guru untuk 
 
 
 * Note
-Hanya ada 3 user:
+  Saat ini hanya ada 3 user:
 - Admin
 - Guru
 - Siswa
